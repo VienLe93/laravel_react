@@ -51,7 +51,7 @@ class Product extends Component {
                     <div className="col-md-2">
                         <input type="submit" value="Add Product" className="btn btn-success"></input>
                     </div>
-                    </div><br />
+                </div><br />
                 <table className="table table-hover">
                     <thead>
                     <tr>
